@@ -123,8 +123,9 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Acknowledgements
 
-This package is a modified version of the [appflowy-board]([[link-to-original-package](https://pub.dev/packages/appflowy_board)](https://github.com/AppFlowy-IO/appflowy-board/blob/main/LICENSE))
+This package is a modified version of the [appflowy-board](https://pub.dev/packages/appflowy_board). You can find the original package's license [here](https://github.com/AppFlowy-IO/appflowy-board/blob/main/LICENSE).
 
 ## License
 
 This package is distributed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
+
