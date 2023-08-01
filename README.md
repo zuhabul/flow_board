@@ -123,8 +123,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Acknowledgements
 
-This package is a modified version of the [appflowy-board
-]([link-to-original-package](https://github.com/AppFlowy-IO/appflowy-board/blob/main/LICENSE))
+This package is a modified version of the [appflowy-board]([link-to-original-package](https://github.com/AppFlowy-IO/appflowy-board/blob/main/LICENSE))
 
 ## License
 
